@@ -1,18 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
 .btn-black {
-    color: #fff; /* Define a cor do texto como branco */
-    background-color: #000; /* Define a cor de fundo como preto */
-    border-color: #000; /* Define a cor da borda como preto, se aplicável */
+    color: #fff; 
+    background-color: #000; 
+    border-color: #000; 
 }
 
 .btn--bs-dark-bg-subtle {
-    background-color: #343a40; /* Cor de fundo cinza escuro */
-    color: #fff; /* Cor do texto branco */
-    border-color: #343a40; /* Cor da borda igual à cor de fundo */
+    background-color: #343a40; 
+    color: #fff; 
+    border-color: #343a40; 
 }
 
 .btn--bs-dark-bg-subtle:hover {
-    background-color: #212529; /* Cor de fundo cinza escuro mais escuro no hover */
-    border-color: #212529; /* Cor da borda igual à cor de fundo no hover */
+    background-color: #212529; 
+    border-color: #212529; 
 }
 
